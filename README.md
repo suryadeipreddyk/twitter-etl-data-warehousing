@@ -18,6 +18,7 @@ The project involves the following steps:
 4. **Automation**: Automate the pipeline using AWS Lambda functions triggered by S3 events.
 5. **Data Warehousing**: Load the processed data into Amazon Redshift for advanced analytics.
 
+![Alt Text](https://github.com/suryadeipreddyk/twitter-etl-data-warehousing/blob/main/Twitter%20ETL%20%26%20Data%20Warehousing.png)
 
 ## Prerequisites
 
