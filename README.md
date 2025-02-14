@@ -1,4 +1,3 @@
-```markdown
 # Twitter ETL and Data Warehousing Project
 
 This project focuses on building an end-to-end ETL (Extract, Transform, Load) pipeline for Twitter data. The pipeline extracts raw data from Kaggle, processes it using AWS Glue, and loads it into Amazon Redshift. The entire process is automated using AWS Lambda functions and S3 event triggers.
